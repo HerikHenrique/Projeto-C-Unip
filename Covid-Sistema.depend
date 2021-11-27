@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638050134 source:c:\users\herik\documents\projeto\covid-sistema\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<iostream>
+	<locale.h>
+
